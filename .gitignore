@@ -6,7 +6,11 @@ chouk
 .idea/**/tasks.xml
 
 .idea/**/usage.statistics.xml
+<<<<<<< HEAD
 blablablahahaha
+=======
+chouchou
+>>>>>>> 9f0533c306e4a63e5740d15c6e498dc61c36973f
 .idea/**/dictionaries
 
 .idea/**/shelf
